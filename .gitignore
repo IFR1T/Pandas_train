@@ -1,7 +1,8 @@
 .idea
 .idea/
 /.idea
-test1
-money_by_city
-money_title_{}
-.gitigore
+test1.py
+money_by_city.csv
+money_title_{}.csv
+.gitigore.txt
+.gitattributes.txt
